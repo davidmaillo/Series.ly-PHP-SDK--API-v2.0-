@@ -1,6 +1,6 @@
 <?php
 	// Run the Series.ly class
-	require_once("seriesly.class.php");
+	require_once("../seriesly.class.php");
 	$api = new seriesly_api();
 
 	// Your APP parameters
